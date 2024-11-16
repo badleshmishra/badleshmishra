@@ -42,5 +42,5 @@ Feel free to reach out to me for any inquiries, collaborations, or just to chat 
 <!-- - [Follow me on GitHub](https://github.com/Badlesh) -->
 <!-- - [Follow me on Twitter](https://twitter.com/Badlesh) -->
 - [Check out my Dev.to](https://dev.to/badlesh_mishra_)
-- [Visit my Portfolio](https://badlesh-project.free.nf/))
+- [Visit my Portfolio](https://badlesh-project.free.nf/)
 
