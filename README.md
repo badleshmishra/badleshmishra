@@ -20,7 +20,9 @@ I am a full stack developer with experience in building and maintaining web appl
 - **Version Control**: Git, GitHub
 - **Tools**: Visual Studio Code, Sublime Text, XAMPP, Docker
 
+
 ## Projects
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=badleshmishra&show_icons=true&theme=radical)
 
 Here are a few of my favorite projects:
 
